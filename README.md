@@ -202,8 +202,12 @@ files.download(output_file)
 ## Output 2 :
 <img width="735" height="827" alt="image" src="https://github.com/user-attachments/assets/157e8db9-cc02-4be5-9379-2d1d95e4e337" />
 
+# Summary :
 
+From these experiment I learned data cleaning and outlier detection using Python libraries such as Pandas and NumPy. I learned to upload CSV files, read datasets using read_csv(), inspect data using head(), info(), and shape, and identify missing values using isnull().sum(). I handled missing numerical values using median imputation and categorical values using mode imputation, and removed duplicate records using drop_duplicates(). I also learned to detect outliers using the Interquartile Range (IQR) method, and calculate Q1, Q3, lower bounds, and upper bounds. And
+I used Boolean conditions and filtering to detect and remove outliers, verified the cleaned data, saved the results  and downloaded the cleaned datasets using files.download().
 
 
 # Result
 
+Thus, the data cleaning process was successfully performed on the Loan_data.csv and heights.csv datasets using Python. Missing values were handled, duplicate records were removed, and outliers were detected and removed using the IQR method. The cleaned datasets were saved as CSV files and downloaded successfully
