@@ -106,9 +106,10 @@ print("\nData Cleaning and Outlier Removal Completed Successfully!")
 files.download(output_file)
 ```
 ## Output 1 : 
-<img width="1916" height="1103" alt="image" src="https://github.com/user-attachments/assets/69688da5-9b21-4426-a028-9a960e805aba" />
-<img width="1916" height="1155" alt="image" src="https://github.com/user-attachments/assets/ab1d5067-b918-4f06-8e1f-475b4dda8b06" />
-<img width="1905" height="1108" alt="image" src="https://github.com/user-attachments/assets/bc862b90-3dfb-48bb-bbc7-cc1dd0e0e56a" />
+<img width="835" height="843" alt="image" src="https://github.com/user-attachments/assets/42827a10-79b5-4f94-8621-519b10490de6" />
+<img width="717" height="836" alt="image" src="https://github.com/user-attachments/assets/0ebb47a6-d751-4e25-957c-0b9ca7b58f73" />
+<img width="735" height="827" alt="image" src="https://github.com/user-attachments/assets/c7057389-d7e6-48db-a320-6c65a8ff46d4" />
+
 
 
 ## Dataset 2 : heights.csv : 
@@ -197,8 +198,7 @@ files.download(output_file)
 
 ```
 ## Output 2 :
-<img width="1917" height="1103" alt="image" src="https://github.com/user-attachments/assets/34a20a53-1a06-4b04-a487-50d98451b4fd" />
-
+![Uploading image.png…]()
 
 
 
