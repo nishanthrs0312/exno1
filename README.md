@@ -107,7 +107,9 @@ files.download(output_file)
 ```
 ## Output 1 : 
 <img width="835" height="843" alt="image" src="https://github.com/user-attachments/assets/42827a10-79b5-4f94-8621-519b10490de6" />
+
 <img width="717" height="836" alt="image" src="https://github.com/user-attachments/assets/0ebb47a6-d751-4e25-957c-0b9ca7b58f73" />
+
 <img width="735" height="827" alt="image" src="https://github.com/user-attachments/assets/c7057389-d7e6-48db-a320-6c65a8ff46d4" />
 
 
@@ -198,7 +200,8 @@ files.download(output_file)
 
 ```
 ## Output 2 :
-![Uploading image.png…]()
+<img width="735" height="827" alt="image" src="https://github.com/user-attachments/assets/157e8db9-cc02-4be5-9379-2d1d95e4e337" />
+
 
 
 
